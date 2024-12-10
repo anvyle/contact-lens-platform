@@ -1,0 +1,12 @@
+.venv
+.vscode
+.pytest_cache
+__pycache__
+.env
+
+embedding_db/*
+embedding_db/chroma/
+!embedding_db/uploads/
+
+public
+app.log
